@@ -1,0 +1,11 @@
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\bin\Debug\write_file.exe.config
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\bin\Debug\write_file.exe
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\bin\Debug\write_file.pdb
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\bin\Debug\write_file.xml
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\obj\Debug\write_file.vbprojAssemblyReference.cache
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\obj\Debug\write_file.Form1.resources
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\obj\Debug\write_file.Resources.resources
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\obj\Debug\write_file.vbproj.GenerateResource.cache
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\obj\Debug\write_file.exe
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\obj\Debug\write_file.xml
+C:\Adrian 2019\2 - Second Semester\Visual Basic\write_file\write_file\obj\Debug\write_file.pdb
